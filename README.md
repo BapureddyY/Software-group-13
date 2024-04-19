@@ -65,4 +65,11 @@
 - Schedule new appointments, subject to administrator approval.
 - Obtain and download invoices post-discharge.
 
+
+Project Demo :
+
+
+https://github.com/BapureddyY/Software-group-13/assets/154608567/0472c1bd-1833-4c43-b23f-74f7fcf76f56
+
+
 ---
